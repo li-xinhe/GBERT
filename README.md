@@ -18,7 +18,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-2) Put your raw data CSV at the repo root:
+2) Put data at the root:
 
 - `manifesto_sentences.csv`
 
@@ -44,7 +44,3 @@ For a tiny debug run:
 python scripts/train.py --debug_n 256 --epochs 1 --batch_size 16 --val_batch_size 16
 ```
 
-## Notes
-
-- This repo keeps your original model decomposition (text + macro additive NAM + country/year main effects)
-  and includes the interaction + FiLM blocks already present in your notebook model.

@@ -4,7 +4,7 @@ Choose the branch that matches your current goal:
 
 - [Branch A: Model Introduction](#branch-a-model-introduction)
 - [Branch B: Application](#branch-b-application)
-
+- [Branch C: Try our online tool](https://gbert.org).
 ---
 
 ## Branch A: Model Introduction

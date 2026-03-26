@@ -2,12 +2,12 @@
 
 Choose the branch that matches your current goal:
 
-- [Branch A: Continue Optimization](#branch-a-continue-optimization)
-- [Branch B: Application](#branch-b-jump-to-application)
+- [Branch A: Model Introduction](#branch-a-model-introduction)
+- [Branch B: Application](#branch-b-application)
 
 ---
 
-## Branch A: Continue Optimization
+## Branch A: Model Introduction
 
 This branch preserves the current research and model-design oriented documentation.
 
@@ -654,4 +654,3 @@ The default text backbone is `bert-base-multilingual-cased`.
 ### CMP code reference
 
 The CMP labels exposed by `get_cmp_info()` and `list_cmp_codes()` follow the Comparative Manifesto Project coding scheme. For code definitions and the underlying coding framework, cite the Comparative Manifesto Project dataset and codebook in substantive applications.
-
